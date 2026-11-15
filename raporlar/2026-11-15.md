@@ -1,4 +1,93 @@
-# Toptancı Raporu — 15.11.2026 (ilk deneme)
+# Toptancı Raporu — 15.11.2026 · Instagram keşfi
+
+**Yöntem:** Arama motorunun Instagram profil dizini (giriş yapılmadan). Takipçi eşiği: 1.500+.
+**Sonuç:** 44 yeni hesap · **37'si CRM'de hiç yok** · 3'ü CRM'de aksiyonsuz bekliyor · 2'si aktif takipte · 2'si zaten müşteri (MSY, Full Kids).
+
+> ℹ️ Takipçi sayıları arama dizininden alındı, birkaç aylık olabilir. Telefon alanları boş (biyografide numaralar kısaltılmış görünüyor). Reklam ve fuar bilgisi bu turda araştırılmadı.
+
+## 🆕 CRM'de olmayan yeni toptancılar (37)
+
+### Tesettür (5) — referanslarla açılış: Tripen, Puane, Rita, Kado-Soff
+| Puan | Firma | Instagram | Takipçi | Bölge / Adres | Ürün grubu | Site | CRM |
+|---|---|---|---|---|---|---|---|
+| 100 | **Butikkolik** | [@butikkolik_outlet](https://instagram.com/butikkolik_outlet) | 156B | Merter · Mehmet Nesih Özmen Mah. Zeytin Sk. No:16A, Merter | Tesettür & Hijab | yok | 🆕 CRM'de yok |
+| 90 | **Mankens Fashion** | [@mankensfashion](https://instagram.com/mankensfashion) | 29B | Merter · Merter (lokasyon tahmini) | Tesettür & Hijab | yok | 🆕 CRM'de yok |
+| 85 | **Toptan Tesettür Elbise** | [@toptantesetturelbise](https://instagram.com/toptantesetturelbise) | 17B | Güngören · Akıncılar Mah. Çetin Türk Cd. No:21/B, Güngören | Tesettür & Hijab | yok | 🆕 CRM'de yok |
+| 78 | **Bagiza Toptan Tesettür** | [@bagizafashion](https://instagram.com/bagizafashion) | 56B | Diğer ·  | Tesettür & Hijab | yok | 🆕 CRM'de yok |
+| 68 | **Nessia Tesettür Toptan Giyim (Nessia Tekstil)** | [@nessia_tekstil_toptan](https://instagram.com/nessia_tekstil_toptan) | 106B | Diğer ·  | Tesettür & Hijab | var | 🆕 CRM'de yok |
+
+### Çocuk (11) — büyüme hedefi, CRM'de en zayıf segment
+| Puan | Firma | Instagram | Takipçi | Bölge / Adres | Ürün grubu | Site | CRM |
+|---|---|---|---|---|---|---|---|
+| 90 | **BabyCosy Organic** | [@babycosyorganic](https://instagram.com/babycosyorganic) | 27B | Merter · Merter showroom (açık adres bulunamadı) | Çocuk | pazaryeri | 🆕 CRM'de yok |
+| 87 | **Veo Bebe (Veo Bebe Teks. San. Tic. Ltd. Şti.)** | [@bebektoptan](https://instagram.com/bebektoptan) | 3.7B | Merter · Merter (açık adres biyografide kısaltılmış) | Çocuk | yok | 🆕 CRM'de yok |
+| 87 | **Polente Kids** | [@polentekidstr](https://instagram.com/polentekidstr) | 5.4B | Merter · Merter showroom (açık adres bulunamadı) | Çocuk | yok | 🆕 CRM'de yok |
+| 82 | **Wholesale Kids Türkey (Ladona Bebe)** | [@ladonabebe](https://instagram.com/ladonabebe) | 8.4B | Güngören · Güngören (lokasyon tahmini) | Çocuk | yok | 🆕 CRM'de yok |
+| 80 | **Market of Kids** | [@marketofkids](https://instagram.com/marketofkids) | 9.8B | Laleli · Laleli (açık adres bulunamadı) | Çocuk | yok | 🆕 CRM'de yok |
+| 80 | **Caramel Laleli** | [@caramell_babykids](https://instagram.com/caramell_babykids) | 2B | Laleli · Laleli (açık adres bulunamadı) | Çocuk | yok | 🆕 CRM'de yok |
+| 78 | **Maibella Wholesale Store** | [@maibellakids](https://instagram.com/maibellakids) | 46B | Diğer ·  | Çocuk | yok | 🆕 CRM'de yok |
+| 77 | **Serenad Pijakids** | [@pijakids.serenad](https://instagram.com/pijakids.serenad) | 4.3B | Zeytinburnu · Beştelsiz Mah., No:12/A, Zeytinburnu | Çocuk; İç Çamaşırı | yok | 🆕 CRM'de yok |
+| 77 | **İstanbul Wholesale (çocuk)** | [@istanbul_wholesale11](https://instagram.com/istanbul_wholesale11) | 4.8B | Zeytinburnu · Zeytinburnu (açık adres biyografide kısaltılmış) | Çocuk | yok | 🆕 CRM'de yok |
+| 77 | **Zara Toptan Çocuk Giyim** | [@toptancocukgiyim.zeytinburnu](https://instagram.com/toptancocukgiyim.zeytinburnu) | 1.8B | Zeytinburnu · Zeytinburnu (açık adres bulunamadı) | Çocuk | yok | 🆕 CRM'de yok |
+| 68 | **Nifo Kids** | [@nifokids](https://instagram.com/nifokids) | 26B | Diğer ·  | Çocuk | var | 🆕 CRM'de yok |
+
+### Kadın / abiye / denim (21)
+| Puan | Firma | Instagram | Takipçi | Bölge / Adres | Ürün grubu | Site | CRM |
+|---|---|---|---|---|---|---|---|
+| 100 | **Belemir** | [@belemirtoptan](https://instagram.com/belemirtoptan) | 62B | Merter · Merter mağaza (açık adres biyografide kısaltılmış); fabrika  | Kadın Casual | yok | 🆕 CRM'de yok |
+| 95 | **Meltek Fashion World** | [@meltekfashionworld](https://instagram.com/meltekfashionworld) | 30B | Merter · Merter (açık adres bulunamadı) | Kadın Casual | yok | 🆕 CRM'de yok |
+| 95 | **Espenica (Toptan Elbise Abiye)** | [@espenica_toptan](https://instagram.com/espenica_toptan) | 15B | Merter · Merter (lokasyon tahmini) | Abiye; Kadın Casual | yok | 🆕 CRM'de yok |
+| 90 | **Akdeniz Tekstil Güngören** | [@akdeniz_tekstill_toptan](https://instagram.com/akdeniz_tekstill_toptan) | 30B | Güngören · Merkez Mah. Ulubatlı Hasan Sk. No:49, Güngören | Kadın Casual | yok | 🆕 CRM'de yok |
+| 90 | **New Orange** | [@neworangee](https://instagram.com/neworangee) | 27B | Güngören · Merkez Mah. Gaziosmanpaşa Cd. No:70/C, Güngören (şube) | Kadın Casual | yok | 🆕 CRM'de yok |
+| 90 | **Firesh Toptan** | [@gungorencom](https://instagram.com/gungorencom) | 25B | Güngören · Güngören (lokasyon tahmini, açık adres bulunamadı) | Kadın Casual | yok | 🆕 CRM'de yok |
+| 90 | **Macfly Elbiseci** | [@macfly_elbiseci](https://instagram.com/macfly_elbiseci) | 16B | Güngören · Güngören (açık adres biyografide kısaltılmış) | Kadın Casual | yok | 🆕 CRM'de yok |
+| 90 | **Enderon Toptan** | [@enderon_toptan](https://instagram.com/enderon_toptan) | 23B | Güngören · Süleyman Nazif Sk. No:28 Kat:2, Güngören | Kadın Casual | yok | 🆕 CRM'de yok |
+| 90 | **Moda Cameo Toptan (Gürün Export)** | [@moda_cameo_toptan](https://instagram.com/moda_cameo_toptan) | 13B | Güngören · Muallim Naci Sk. No:51/A, Güngören | Kadın Casual | yok | 🆕 CRM'de yok |
+| 90 | **Stil Star** | [@stil_star_women](https://instagram.com/stil_star_women) | 18B | Güngören · Güngören (açık adres biyografide kısaltılmış) | Kadın Casual | yok | 🆕 CRM'de yok |
+| 88 | **Gülnida Toptan Bayan Giyim** | [@gulnidatoptan](https://instagram.com/gulnidatoptan) | 16B | Laleli · Laleli (lokasyon tahmini) | Kadın Casual | yok | 🆕 CRM'de yok |
+| 87 | **Cazibe Tekstil** | [@cazibetekstil_](https://instagram.com/cazibetekstil_) | 7.9B | Merter · Merter (açık adres bulunamadı) | Kadın Casual | yok | 🆕 CRM'de yok |
+| 87 | **Tarzım Güncel (Toptan Merter Bayan)** | [@tarzimguncel](https://instagram.com/tarzimguncel) | 7B | Merter · Ahmet Kutsi Tecer Cd. No:1, Merter/İstanbul | Kadın Casual | yok | 🆕 CRM'de yok |
+| 87 | **Shenaz Tekstil Merter** | [@shenazmerter](https://instagram.com/shenazmerter) | 6.5B | Merter · Merter (açık adres bulunamadı) | Kadın Casual | yok | 🆕 CRM'de yok |
+| 82 | **Toptan Bayan Giyim Mağaza** | [@gungoren_toptan34](https://instagram.com/gungoren_toptan34) | 3.9B | Güngören · Güngören (açık adres bulunamadı) | Kadın Casual | yok | 🆕 CRM'de yok |
+| 82 | **Katalog Collection** | [@katalog_toptan](https://instagram.com/katalog_toptan) | 7.1B | Güngören · Merkez Mah. Pertev Paşa No:7A, Güngören | Kadın Casual | yok | 🆕 CRM'de yok |
+| 82 | **Benimcollection Bayan Toptan Giyim** | [@benimcollection](https://instagram.com/benimcollection) | 2.4B | Güngören · Merkez Mah. Gaziosmanpaşa Cd. No:72/B, Güngören | Kadın Casual | yok | 🆕 CRM'de yok |
+| 82 | **Lady Cool (Kadın Kot Toptan)** | [@ladycool28](https://instagram.com/ladycool28) | 3.2B | Güngören · Güngören / Merter (açık adres bulunamadı) | Denim; Pantolon; Kadın Casual | yok | 🆕 CRM'de yok |
+| 82 | **WPR** | [@wpristanbul](https://instagram.com/wpristanbul) | 1.7B | Güngören · Merkez Mah. Merter Sk., Güngören (Merter bölgesi) | Kadın Casual | yok | 🆕 CRM'de yok |
+| 82 | **SES Woman (Merter Tekstil Wholesale)** | [@ses_woman_](https://instagram.com/ses_woman_) | 1.5B | Güngören · Güngören (biyografide Güngören adresi; hesap adı 'Merter Tek | Kadın Casual | yok | 🆕 CRM'de yok |
+| 77 | **Kral23 Toptan Giyim** | [@kral23toptangiyim](https://instagram.com/kral23toptangiyim) | 5B | Zeytinburnu · Beştelsiz Mah. Mahmut Kocatürk Sk. No:37/A, Zeytinburnu | Kadın Casual | yok | 🆕 CRM'de yok |
+
+## 🔁 CRM'de zaten olanlar (7)
+| Puan | Firma | Instagram | Takipçi | Bölge / Adres | Ürün grubu | Site | CRM |
+|---|---|---|---|---|---|---|---|
+| 100 | **noanoa Toptan Bayan Giyim** | [@noanoaistanbul](https://instagram.com/noanoaistanbul) | 72B | Merter · Merter (açık adres bulunamadı) | Kadın Casual | yok | ⏸ aksiyonsuz (Sercan Gedik) · [CRM](https://app.onepagecrm.com/show_contact/697731c2d62e2de2c619a9bf) |
+| 97 | **For She** | [@forshetoptan](https://instagram.com/forshetoptan) | 8.5B | Merter · Merter (WhatsApp hattı Merter); ikinci şube Adana | Kadın Casual | yok | ⏸ aksiyonsuz (Sercan Gedik) · [CRM](https://app.onepagecrm.com/show_contact/6968eb04a442ee9bcbc2fb1a) |
+| 95 | **EN Store Toptan** | [@enstoretoptanmerter](https://instagram.com/enstoretoptanmerter) | 25B | Merter · Merter (açık adres bulunamadı) | Diğer | yok | ⏸ aksiyonsuz (Sercan Gedik) · [CRM](https://app.onepagecrm.com/show_contact/6971fa5326cb84fc9b1ee4f0) |
+| 95 | **Camelya Fashion** | [@camelya_fashion.official](https://instagram.com/camelya_fashion.official) | 142B | Merter · Merter mağaza (açık adres bulunamadı) | Tesettür & Hijab | yok | ✅ aktif (Sercan Sarisoy) · [CRM](https://app.onepagecrm.com/show_contact/6ae9b146675e7568c2b56695) |
+| 93 | **Butik Delila Laleli** | [@butikdelila_laleli](https://instagram.com/butikdelila_laleli) | 83B | Laleli · Laleli (açık adres bulunamadı) | Kadın Casual | yok | ✅ aktif (Mehmet Kutlu) · [CRM](https://app.onepagecrm.com/show_contact/65facda22b463a45493450ad) |
+| 0 | **MSY** | [@msy.merter](https://instagram.com/msy.merter) | 33B | Merter · Merter (açık adres bulunamadı) | Kadın Casual | yok | 👤 müşteri (Sercan Sarisoy) · [CRM](https://app.onepagecrm.com/show_contact/651a910b2b463a1f1c76464d) |
+| 0 | **Full Kids Toptan** | [@fullkidstoptan](https://instagram.com/fullkidstoptan) | 5.8B | Zeytinburnu · Zeytinburnu (açık adres bulunamadı) | Çocuk | yok | 👤 müşteri (Sercan Sarisoy) · [CRM](https://app.onepagecrm.com/show_contact/61c0e45758e514033e498874) |
+
+## ⭐ Öne çıkanlar
+- **Butikkolik** (156B, Merter, tesettür): Hem Instagram'dan perakende satıyor hem WhatsApp'tan toptan. Açık adresi var (Zeytin Sk. No:16A). Çok kanallı satış nedeniyle **MC APP + MCWarehouse**.
+- **Belemir** (62B, Merter mağaza + Kağıthane fabrika): Hem üretici hem toptancı. CRM'de yok.
+- **Meltek Fashion World** (30B, Merter): Kendini "yalnızca B2B" olarak tanıtıyor, kendi sitesi yok. **Microstore** için ideal.
+- **noanoa** (72B): CRM'de "NOA&NOA" olarak 02.03.2026'dan beri **aksiyonsuz duruyor**. Instagram'da 72B takipçisi var, hemen aranmalı (Sercan Gedik).
+- **For She** (8,4B) ve **EN Store** (25B): CRM'de Ocak'tan beri aksiyonsuz (Sercan Gedik).
+- **Butik Delila** (83B, Laleli): 29.10'daki "Melik Bey ziyaret" aksiyonu **gecikmiş** (Mehmet Kutlu).
+- **Çocuk:** BabyCosy Organic (27B, Merter, Faire'de ihracat yapıyor), Market of Kids (9,8B, Laleli), Polente Kids (5,4B), Veo Bebe (3,7B). Nifo Kids ve Maibella büyük hesaplar ama semtleri bilinmiyor; Nifo, rakip Serenay Yazılım'ın uygulamasını kullanıyor.
+- **Güngören kümesi:** Merkez Mah. Gaziosmanpaşa Cd., Pertev Paşa ve Ulubatlı Hasan Sk. üzerinde 8 kadın toptancı var (New Orange, Benimcollection, Katalog, Akdeniz…). Tek günlük bir saha turu için uygun.
+- **Zeytinburnu Beştelsiz Mahallesi:** Serenad Pijakids, Kral23 ve diğer çocukçular aynı mahallede. Daha önce önerilen CRM'deki Derin Kids, Masal Kids ve My Kids ziyaretiyle aynı güne konabilir.
+
+## 🔎 Gözlemler
+- **44 firmanın 41'inde kendi sitesi yok;** satış Instagram, WhatsApp ve Telegram üzerinden yapılıyor. Microstore için çok geniş bir havuz.
+- **CRM veri kalitesi:** Camelya Fashion iki kez girilmiş (Sercan Sarisoy ve Mehmet Kutlu). CRM kayıtlarında Instagram adresi neredeyse hiç yok; bu rapordaki @hesapların CRM'e eklenmesi faydalı olur.
+- **Bazı Güngören firmaları "Merter" adını kullanıyor.** Bölgeyi biyografideki adrese göre yazdım.
+- **Elenenler:** Çarşı ortak hesapları, toplayıcı hesaplar ve 1.500 altındaki hesaplar.
+
+---
+
+# Sabah taraması (web)
+
 
 **Tarama:** Merter + Laleli · kadın, tesettür, çocuk · 15 firma bulundu
 **CRM eşleştirmesi:** yapıldı (OnePageCRM, yalnızca okuma)
