@@ -42,3 +42,4 @@ Moda toptancılarına yazılım ve hizmet veriyoruz.
 ## Ajanlar
 - **toptanci-arastirmaci** (`.claude/agents/`): moda toptancısı araştırması. Kayıtlar `leads/toptancilar.csv` dosyasına yazılır.
   Hızlı başlatmak için: `/toptanci-tara [bölge] [segment] [adet]`, ör. `/toptanci-tara Merter kadın 20`
+- **Günlük rapor:** `/gunluk-rapor` her gün listeyi günceller. Sonucu `raporlar/YYYY-AA-GG.md` dosyasına yazar, en günceli her zaman `raporlar/son-rapor.md` dosyasındadır. Yeni eklenen firmalar raporun en başında listelenir.
