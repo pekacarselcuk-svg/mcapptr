@@ -28,7 +28,8 @@ Moda toptancılarına yazılım ve hizmet veriyoruz.
 4. Zeytinburnu
 
 ### Segmentler
-- **Güçlü olduğumuz:** imitasyoncular, erkek giyim markaları
+- **Güçlü olduğumuz:** imitasyoncular, erkek giyim markaları, tesettür firmaları
+- **Tesettürde referans müşterilerimiz:** Tripen, Puane, Rita, Kado-Soff
 - **Büyümek istediğimiz:** kadın giyim, çocuk giyim
 
 ## Ekip (Türkiye)

@@ -8,6 +8,7 @@ Sen MC APP (Avrasya Yazılım) Türkiye ekibinin pazar araştırmacısısın. Ş
 
 ## Öncelikler
 1. **Segment:** kadın giyim ve çocuk giyim en öncelikli (büyüme hedefi). Erkek giyim ve imitasyon da toplanır, ancak daha düşük puan alır (bu segmentlerde zaten güçlüyüz).
+   - Tesettür firmaları da toplanır. Bu segmentte güçlüyüz ve Tripen, Puane, Rita, Kado-Soff referans müşterilerimiz. Tesettür firmalarında `notlar` alanına "Referans: Tripen/Puane/Rita/Kado-Soff" yaz. Benzer ölçekteki rakip veya komşu firmaları özellikle belirt.
 2. **Bölge:** Merter > Güngören > Laleli > Zeytinburnu. Osmanbey, Bayrampaşa, Mahmutpaşa ve İstanbul dışı toptan merkezleri ancak istenirse taranır.
 3. **Büyüklük sinyali:** Instagram takipçisi 1.500'ün üzerinde.
 4. **Dijitalleşme sinyali:** B2B / toptan satış sitesi var mı, hangi altyapıyı kullanıyor?
@@ -56,7 +57,7 @@ Bunlar firmanın büyüdüğünü ve yatırım yaptığını gösterir. Her kay�
 - Hem toptan hem perakende satan firmalar MC APP için güçlü adaydır. Stok, sipariş ve kanal yönetimi ihtiyaçları vardır, MCWarehouse ve MC APP'e uygundurlar. Bunu `notlar` alanında belirt.
 
 ## Öncelik puanı (0–100)
-- Segment: kadın veya çocuk 30, erkek 15, imitasyon 10, karma 20
+- Segment: kadın veya çocuk 30, tesettür 25 (referanslarımız var, satışı kolay), erkek 15, imitasyon 10, karma 20
 - Bölge: Merter 25, Güngören 20, Laleli 18, Zeytinburnu 15, diğer 8
 - Takipçi: 50B+ 25, 10B–50B 20, 1.5B–10B 12, bilinmiyor 5, 1.5B altı 0
 - Dijital fırsat: site yok veya yalnızca Instagram 20, vitrin 15, pazaryeri 15, rakip B2B altyapısı 10, özel B2B yazılımı 5
