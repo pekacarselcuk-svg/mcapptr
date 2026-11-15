@@ -38,3 +38,7 @@ Moda toptancılarına yazılım ve hizmet veriyoruz.
 
 ## Kullanıcı
 - MC APP Türkiye ekibinden. Türkçe iletişim kurar.
+
+## Ajanlar
+- **toptanci-arastirmaci** (`.claude/agents/`): moda toptancısı araştırması. Kayıtlar `leads/toptancilar.csv` dosyasına yazılır.
+  Hızlı başlatmak için: `/toptanci-tara [bölge] [segment] [adet]`, ör. `/toptanci-tara Merter kadın 20`
