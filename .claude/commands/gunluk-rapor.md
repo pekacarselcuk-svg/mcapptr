@@ -49,11 +49,11 @@ Puanı ayarla: `musteri` ve `kapali` kayıtların puanı 0 olsun (raporda ayrıc
 # Toptancı Raporu — GG.AA.YYYY
 
 ## 🆕 Bugün yeni eklenenler (N firma)
-| Puan | Firma | Instagram | Takipçi | Segment | Bölge | B2B site | Fuar | Reklam | B2C | CRM |
+| Puan | Firma | Bölge / Adres | Ürün grubu | Instagram | Takipçi | B2B site | Fuar | Reklam | B2C | CRM |
 (Puana göre azalan sırada. Instagram ve web sitesi bağlantılı olsun. CRM sütununda "🆕 CRM'de yok" ya da "⏸ aksiyonsuz aday (sahibi: X)" yazsın.)
 
 ## ⏸ CRM'de açılmış ama aksiyon alınmamış adaylar (N firma)
-| Firma | Sahibi | Son aktivite | Bölge | Ürün grubu | Güncel durum (web) | Önerilen aksiyon | CRM |
+| Firma | Sahibi | Son aktivite | Bölge / Adres | Ürün grubu | Güncel durum (web) | Önerilen aksiyon | CRM |
 Önerilen aksiyon örnekleri: "B2C'ye başlamış, MCWarehouse ile ara", "Trendyol'da mağaza açmış", "Kapanmış görünüyor, durumu Kapalı İşletme yapılabilir".
 
 ## ♻️ Geri kazanım fırsatları
