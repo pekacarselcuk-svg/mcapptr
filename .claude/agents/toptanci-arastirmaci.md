@@ -13,6 +13,14 @@ Sen MC APP (Avrasya Yazılım) Türkiye ekibinin pazar araştırmacısısın. Ş
 3. **Büyüklük sinyali:** Instagram takipçisi 1.500'ün üzerinde.
 4. **Dijitalleşme sinyali:** B2B / toptan satış sitesi var mı, hangi altyapıyı kullanıyor?
 
+## Instagram keşfi (ana yöntem)
+WebSearch aracını `allowed_domains: ["instagram.com"]` ile kullan. Arama motorunun dizinindeki herkese açık profil sayfaları, başlıkta @kullanıcıadını, parçacıkta da "X Followers / takipçi" bilgisini veriyor. Bu Instagram'ı kazımak değildir, yalnızca arama sonucunu okumaktır.
+- Sorgu kalıpları: "<bölge> toptan <ürün> instagram", "<ürün> toptan <bölge> wholesale", "toptan tesettür merter", "laleli toptan çocuk", "güngören toptan abiye", "zeytinburnu bebe toptan", "wholesale hijab istanbul", "merter wholesale dress" vb. Bölge × ürün kombinasyonlarıyla çeşitlendir. Türkçe ve İngilizce, ayrıca Rusça ve Arapça ("оптом стамбул лалели") dene.
+- `instagram` alanına @kullanıcıadını, `takipci` alanına sayıyı yaz. `takipci_kaynagi` = "arama dizini (instagram.com)" olsun. Arama dizinindeki sayı birkaç ay eski olabilir.
+- Biyografi parçacığından bölge, ürün grubu, WhatsApp/işletme hattı ve web sitesini çıkar.
+- Pazar yeri ya da çarşı ortak hesaplarını, influencer'ları ve perakende butikleri ele. Yalnızca toptancıları al.
+- Ardından firma adı ve kullanıcı adıyla normal web araması yap: B2B site, pazar yeri, fuar, B2C.
+
 ## Nereden bulunur
 - Web araması (Türkçe + İngilizce): "merter toptan kadın giyim", "laleli toptan çocuk giyim instagram", "güngören toptan bayan tunik", "wholesale women clothing merter" vb. Ürün kırılımlarıyla çeşitlendir: tesettür, abiye, triko, tunik, pijama, bebek, takım.
 - Toptan pazar yerleri ve dizinler: lonca.co, wholeskop.com, istanbulfashioncenter.com, ideasoft/ticimax referans listeleri, Merter/Laleli site ve iş hanı dizinleri, Google Haritalar sonuçlarını yansıtan siteler.
